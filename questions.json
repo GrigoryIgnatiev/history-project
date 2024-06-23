@@ -1,0 +1,92 @@
+[
+  {
+    "question": "какой я зык не любит максим сергеевич?",
+    "answerOptions": [
+      {"text": "java", "isCorrect": false},
+      {"text": "c#", "isCorrect": false},
+      {"text": "пайтон", "isCorrect": true},
+      {"text": "go", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "какой язык програмирования плахой",
+    "answerOptions": [
+      {"text": "с++", "isCorrect": false},
+      {"text": "нету такого", "isCorrect": true},
+      {"text": "java", "isCorrect": false},
+      {"text": "f#", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "кто создал тг?",
+    "answerOptions": [
+      {"text": "дуров ", "isCorrect": true},
+      {"text": "илон маск", "isCorrect": false},
+      {"text": "майкл джексон", "isCorrect": false},
+      {"text": "я", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "в каком году был сделан с++",
+    "answerOptions": [
+      {"text": "не помню", "isCorrect": true},
+      {"text": "2007", "isCorrect": false},
+      {"text": "1980", "isCorrect": false},
+      {"text": "...", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "1+1?",
+    "answerOptions": [
+      {"text": "2", "isCorrect": true},
+      {"text": "3", "isCorrect": false},
+      {"text": "3", "isCorrect": false},
+      {"text": "NH3", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answerOptions": [
+      {"text": "Atlantic Ocean", "isCorrect": false},
+      {"text": "Pacific Ocean", "isCorrect": true},
+      {"text": "Indian Ocean", "isCorrect": false},
+      {"text": "Arctic Ocean", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the most popular social media platform?",
+    "answerOptions": [
+      {"text": "Instagram", "isCorrect": true},
+      {"text": "Facebook", "isCorrect": false},
+      {"text": "Twitter", "isCorrect": false},
+      {"text": "YouTube", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answerOptions": [
+      {"text": "Euro", "isCorrect": false},
+      {"text": "US Dollar", "isCorrect": false},
+      {"text": "Japanese Yen", "isCorrect": true},
+      {"text": "Chinese Yuan", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "What is the world's largest search engine?",
+    "answerOptions": [
+      {"text": "Google", "isCorrect": true},
+      {"text": "Bing", "isCorrect": false},
+      {"text": "Yahoo", "isCorrect": false},
+      {"text": "DuckDuckGo", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      {"text": "Michelangelo", "isCorrect": false},
+      {"text": "Leonardo da Vinci", "isCorrect": true},
+      {"text": "Sandro Botticelli", "isCorrect": false},
+      {"text": "Raphael", "isCorrect": false}
+    ]
+  }
+]
